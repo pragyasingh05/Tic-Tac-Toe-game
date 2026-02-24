@@ -1,4 +1,5 @@
 # 🎮 Tic Tac Toe Game
+You can play this game through this link: https://pragya-tic-tac-toe.netlify.app
 
 A classic Tic Tac Toe game built using HTML, CSS, and JavaScript.  
 This project demonstrates DOM manipulation, game logic implementation, and responsive UI design.
